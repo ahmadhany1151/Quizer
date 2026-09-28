@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "319646240095",
+    "project_id": "ai-quiz-183d3",
+    "storage_bucket": "ai-quiz-183d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319646240095:android:b61b5a979c327db5d13aea",
+        "android_client_info": {
+          "package_name": "com.example.quizwithtimer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Gy1twg98pQkWwq2TaKGs46M_MOHnaqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
